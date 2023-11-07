@@ -1,5 +1,5 @@
 # <p align="center"> Ex. No: 5 Creating Triggers using PL/SQL</p>
-
+### DATE: 12/09/23
 ## AIM: 
 To create a Trigger using PL/SQL.
 
